@@ -1,4 +1,8 @@
 <resources>
     <string name="app_name">Dashboard</string>
     <string name="button">Button</string>
+    <string name="masuk">Masuk</string>
+    <string name="daftar">Daftar</string>
+    <string name="login">login</string>
+    <string name="regristrasi">Regristrasi</string>g>
 </resources>
