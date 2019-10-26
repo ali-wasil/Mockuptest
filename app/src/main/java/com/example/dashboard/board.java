@@ -22,5 +22,14 @@ public class board extends AppCompatActivity {
                 startActivity(akun);
             }
         });
+
+        ImageView contack = findViewById(R.id.imageView15);
+        contack.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View view) {
+                Intent contack = new Intent(getBaseContext(), contact.class);
+                startActivity(contack);
+            }
+        });
     }
 }

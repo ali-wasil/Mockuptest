@@ -29,7 +29,6 @@
             android:textAlignment="center"
             android:textSize="30dp"
             android:fontFamily="@font/josefinsans_semibold"
-            
             android:text="Century Breakdown .Inc" />
 
     </LinearLayout>
